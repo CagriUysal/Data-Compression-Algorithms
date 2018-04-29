@@ -1,0 +1,3 @@
+Size of file before compression(bits):  152341
+Size of file after compression(bits):  96218
+Compression:  0.631596
